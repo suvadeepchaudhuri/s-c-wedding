@@ -1,0 +1,81 @@
+{
+    "mentions" : [
+        {
+            "title": "Victoria Memorial",
+            "map": "https://goo.gl/maps/WNyJeebNic1EK8yq9"
+        }
+    ],
+    "places": [
+    {
+      "title": "Victoria Memorial",
+      "subtitle": "Kolkata, West Bengal",
+      "paragraph":
+        "The Victoria Memorial is a large marble building on the Maidan in Central Kolkata, having its entrance on the Queen's Way. It was built between 1906 and 1921 by the British government. It is dedicated to the memory of Queen Victoria, Empress of India from 1876 to 1901. It is the largest monument to a monarch anywhere in the world, it stands in 64 acres of gardens and is now a museum under the control of the Ministry of Culture.[1] Possessing prominent features of the British architecture of the colonial era, it has evolved into one of the most popular places in the city.",
+      "image":
+        "https://www.tourmyindia.com/blog//wp-content/uploads/2018/04/Victoria-Memorial.jpg",
+      "map": "https://goo.gl/maps/WNyJeebNic1EK8yq9"
+    },
+    {
+      "title": "Belur Math",
+      "subtitle": "Kolkata, West Bengal",
+      "paragraph":
+        "Located on the west bank of Hooghly River, this temple is the heart and the headquarters of the Ramakrishna Math and Ramakrishna Mission, founded by Swami Vivekananda, the chief disciple of Ramakrishna Paramahamsa. It is notable for its architecture that fuses Hindu, Islamic, Buddhist, and Christian art and motifs as a symbol of unity of all religions.",
+      "image":
+        "https://assets.telegraphindia.com/telegraph/2021/Aug/1628624909_math.jpg",
+      "map": "https://goo.gl/maps/aUuyWJqp83WMnKdS7"
+    },
+    {
+      "title": "Birla Temple",
+      "subtitle": "Kolkata, West Bengal",
+      "paragraph":
+        "Located in Ballygunge, this popular Hindu temple in Kolkata was built by the Birla family. Inside the temple, there are idols of Lord Krishna with Radha, Lord Shiva and Goddess Durga. The impeccable craftsmanship of Birla Mandir in Kolkata come together to make a surreal sight for the devotees and visitors alike.",
+      "image":
+        "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e4/ab/29/birla-temple.jpg?w=400&h=-1&s=1",
+      "map": "https://goo.gl/maps/SxurM55NsJyWUu4BA"
+    },
+    {
+        "title": "Howrah Bridge",
+        "subtitle": "Kolkata, West Bengal",
+        "paragraph":
+          "One of the faces of the city of Kolkata, this balanced cantilever bridge over the Hooghly River was commissioned in 1943 to replace a pontoon bridge at the same location linking the cities of Howrah and Kolkata (Calcutta). On 14 June 1965, it was renamed Rabindra Setu after the great Bengali poet Rabindranath Tagore, who was the first Indian and Asian Nobel laureate. It is still popularly known as the Howrah Bridge. Be sure to drive by it and get a picture.",
+        "image":
+          "https://www.holidify.com/images/cmsuploads/compressed/attr_1815_20190329140817.jpg",
+        "map": "https://goo.gl/maps/Ctyi49VsKPL5rZPV9"
+    },
+    {
+        "title": "Birla Temple",
+        "subtitle": "Kolkata, West Bengal",
+        "paragraph":
+          "Located in Ballygunge, this popular Hindu temple in Kolkata was built by the Birla family. Inside the temple, there are idols of Lord Krishna with Radha, Lord Shiva and Goddess Durga. The impeccable craftsmanship of Birla Mandir in Kolkata come together to make a surreal sight for the devotees and visitors alike.",
+        "image":
+          "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e4/ab/29/birla-temple.jpg?w=400&h=-1&s=1",
+        "map": "https://goo.gl/maps/SxurM55NsJyWUu4BA"
+    },
+    {
+        "title": "Birla Temple",
+        "subtitle": "Kolkata, West Bengal",
+        "paragraph":
+          "Located in Ballygunge, this popular Hindu temple in Kolkata was built by the Birla family. Inside the temple, there are idols of Lord Krishna with Radha, Lord Shiva and Goddess Durga. The impeccable craftsmanship of Birla Mandir in Kolkata come together to make a surreal sight for the devotees and visitors alike.",
+        "image":
+          "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e4/ab/29/birla-temple.jpg?w=400&h=-1&s=1",
+        "map": "https://goo.gl/maps/SxurM55NsJyWUu4BA"
+    },
+    {
+        "title": "Birla Temple",
+        "subtitle": "Kolkata, West Bengal",
+        "paragraph":
+          "Located in Ballygunge, this popular Hindu temple in Kolkata was built by the Birla family. Inside the temple, there are idols of Lord Krishna with Radha, Lord Shiva and Goddess Durga. The impeccable craftsmanship of Birla Mandir in Kolkata come together to make a surreal sight for the devotees and visitors alike.",
+        "image":
+          "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e4/ab/29/birla-temple.jpg?w=400&h=-1&s=1",
+        "map": "https://goo.gl/maps/SxurM55NsJyWUu4BA"
+    },
+    {
+        "title": "Birla Temple",
+        "subtitle": "Kolkata, West Bengal",
+        "paragraph":
+          "Located in Ballygunge, this popular Hindu temple in Kolkata was built by the Birla family. Inside the temple, there are idols of Lord Krishna with Radha, Lord Shiva and Goddess Durga. The impeccable craftsmanship of Birla Mandir in Kolkata come together to make a surreal sight for the devotees and visitors alike.",
+        "image":
+          "https://dynamic-media-cdn.tripadvisor.com/media/photo-o/06/e4/ab/29/birla-temple.jpg?w=400&h=-1&s=1",
+        "map": "https://goo.gl/maps/SxurM55NsJyWUu4BA"
+    }
+  ]}
