@@ -5,6 +5,11 @@ module.exports = {
   ],
   theme: {
     extend: {
+      backdropSepia: {
+        25: '.25',
+        50: '.50',
+        75: '.75',
+      },
       fontFamily: {
         'poppins': ['Poppins', 'sans-serif'],
         'greatvibes': ["GreatVibes", "cursive"],
