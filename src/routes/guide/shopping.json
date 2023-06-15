@@ -1,0 +1,44 @@
+[
+    {
+        "title":"Quest Mall",
+        "description":"Quest Mall has a range of stores of all major brands to cater the needs of people, along with food courts, gaming areas, multiplex and what not.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP79hRX75uEdvf8RNPszBt1a2pjBDVknCuwEuzI=w408-h306-k-no",
+        "map":"https://goo.gl/maps/YhAm8TU79Y414fZ59"
+    },
+    {
+        "title":"City Centre Salt Lake",
+        "description":"A twin mall, with stores, boutiques, restaurants and movie theatres close to the wedding location. Enjoy from tea from 'Tea Junction'",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPyHNxPEjICJm4IQCD2E3p_I-SG7Oo1x12Di3gI=w408-h270-k-no",
+        "map":"https://goo.gl/maps/PYqbz1LtL8gseZzQ6"
+    },
+    {
+        "title":"Mani Square Shopping Mall",
+        "description":"Also close to the wedding venue, this mall has everything you need. Get some souvenirs from the Starmark book store and enjoy from tea from 'Tea Junction'.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMFlPkV1QSr7oqwgMDMB-oDg3n68iQlYufnCsdg=w408-h306-k-no",
+        "map":"https://goo.gl/maps/1HQ8pLi3uyBh1DZg6"
+    },
+    {
+        "title":"College Street",
+        "description":"Sidewalk market for old and new books with other shops dispersed. Old timer market.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/0e/2c/17/a2/books.jpg",
+        "map":"https://goo.gl/maps/CxGiA9R2wiKdR8zE6"
+    },
+    {
+        "title":"New Market Kolkata",
+        "description":"One of the oldest shopping areas, dating back to the colonial era, you can find everything here, extending from shoes, textiles, exotic flowers to all kinds of food.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMvFupGotLQ-ndbfvxBP9V3bBkhwHhdpegY9u7G=w408-h305-k-no",
+        "map":"https://goo.gl/maps/HrcJvPEheJrM4esm7"
+    },
+    {
+        "title":"Park Street",
+        "description":"This place has the liveliest vibe. You can take a walk on park street and visit multiple shops on the way. Be sure to stop by at the iconic Flurys to get some snacks. You can also grab food at Peter Cat, Mocambo, get some Ice Cream at Naturals, get some barbecue at Barbecue Nation. There are many other shops, bars and lounges on Park street as well.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipM_th8ahEakUDHc5qHMdA6Dl2O4uyf8sAAxALfW=w408-h387-k-no",
+        "map":"https://goo.gl/maps/9JD5DrSFfW6d1C388"
+    },
+    {
+        "title":"Salt Lake 1st Avenue",
+        "description":"Also called Bidhannagar, just drive around all blocks of Salt Lake city in Kolkata, pick out what shops catch your fancy and visit them",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMnI9Jil2XVz2dfLrbpcEVTUD0cnz6GAY9WU8aq=w408-h306-k-no",
+        "map":"https://goo.gl/maps/xJDuXF7GT2P4ybfH9"
+    }
+]

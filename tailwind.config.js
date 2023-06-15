@@ -5,6 +5,16 @@ module.exports = {
   ],
   theme: {
     extend: {
+      scale: {
+        '300': '3.00',
+      },
+      gridTemplateRows: {
+        // Simple 8 row grid
+        '8': 'repeat(8, minmax(0, 1fr))',
+
+        // Complex site-specific row configuration
+        'layout': '200px minmax(900px, 1fr) 100px',
+      },
       backdropSepia: {
         25: '.25',
         50: '.50',

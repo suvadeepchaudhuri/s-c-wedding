@@ -1,0 +1,80 @@
+[
+    {
+        "title": "Flurys",
+        "description": "This iconic tearoom on Park Street is renowned for its British-style pastries, cakes, and confectionery. Must-tries include their Black Forest Cake, Chicken Patty, and English Breakfast.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/05/71/6c/44/flurys-avani-riverside.jpg",
+        "map": "https://goo.gl/maps/mHvsGcm7pDYR7WT79"
+    },
+    {
+        "title": "K.C. Das",
+        "description": "Known as the birthplace of Rasgulla, K.C. Das is a popular sweet shop with multiple outlets in the city. Indulge in their soft and spongy Rasgullas, or try other favorites like Sandesh, Mishti Doi (sweet yogurt), and Rasmalai.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP9nB39mT5LpDhQtgVXfWCmlauHJ5NIQCIap5xf=w408-h306-k-no",
+        "map": "https://goo.gl/maps/RqHCnFcxRCUz7bat8"
+    },
+    {
+        "title": "Nizam's",
+        "description": "Located in the bustling New Market area, Nizam's is famous for its Kathi Rolls. These flavorful wraps filled with succulent kebabs, onions, and spices are a must-have. The Chicken Egg Roll and Chicken Rezala are highly recommended.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipOH-PzfG1xN1oXw43K3z6inpzDiCVpOpEbJ1Y4q=w408-h306-k-no",
+        "map": "https://goo.gl/maps/8kXXA9Pj3thXsEhm8"
+    },
+    {
+        "title": "Peter Cat",
+        "description": "A legendary restaurant on Park Street, Peter Cat is known for its iconic Chelo Kebabs. This dish features tender minced meat kebabs served with buttery rice and a fried egg on top, accompanied by a creamy gravy. The sizzling sizzlers are also popular here.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/38/29/ae/peter-cat.jpg",
+        "map": "https://goo.gl/maps/FWVDtEUrWja4afod9"
+    },
+    {
+        "title": "Arsalan",
+        "description": "Arsalan is a popular restaurant in Kolkata known for its delicious Mughlai and Awadhi cuisine. It offers a range of mouthwatering dishes such as Biryani, Kebabs, and Curries. Arsalan's Chicken Biryani and Mutton Galouti Kebab are highly recommended. The restaurant is known for its flavorful and aromatic preparations that are sure to tantalize your taste buds.",
+        "image": "https://media-cdn.tripadvisor.com/media/photo-s/07/cd/b4/aa/arsalan.jpg",
+        "map": "https://goo.gl/maps/13GUYQi5smmoCSYn9"
+    },
+    {
+        "title": "Balaram Mullick & Radharaman Mullick",
+        "description": "This century-old sweet shop is renowned for its exquisite variety of Bengali sweets. Treat yourself to their Nolen Gurer Sandesh (sandesh made with date palm jaggery), Malai Chom Chom, Kheer Kadam, and Chocolate Sandesh.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMEbKTpWRaonzTZFEsN_JleEvI6K0TX1vsTqhyH=w408-h544-k-no",
+        "map": "https://goo.gl/maps/GRTV93319X8YgScp8"
+    },
+    {
+        "title": "Ottimo - ITC Royal Bengal",
+        "description": "Ottimo is the best restaurant at ITC Royal Bengal Hotel in Kolkata, offering an exceptional culinary experience inspired by authentic Italian cuisine. The restaurant showcases a fine selection of Italian dishes prepared with the finest ingredients and traditional techniques. From freshly made pasta and wood-fired pizzas to delectable seafood and indulgent desserts, Ottimo offers a wide range of Italian delicacies. The elegant ambiance and warm hospitality add to the overall dining experience. Don't miss their signature dishes like Risotto, Tiramisu, and Panna Cotta.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPIqXM9Y6TbdQGzOKXYRAMxjkfXBcjh2bSVPUl5=w408-h306-k-no",
+        "map": "https://goo.gl/maps/7EbGEbqx1Vc5XKjt6"
+    },
+    {
+        "title": "Indian Coffee House",
+        "description": "A historic café with multiple branches, the Indian Coffee House is famous for its old-world charm and affordable snacks. Don't miss their Mutton Cutlet, Fish Fry, and the quintessential cup of coffee.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNVivIrqn52rRBkWPKizGlmWAZBG79uFMnki_4k=w408-h306-k-no",
+        "map": "https://goo.gl/maps/ckn75CAWUGw5m43F8"
+    },
+    {
+        "title": "Paramount Cold Drinks and Syrups",
+        "description": "Located in the College Street area, Paramount is famous for its refreshing fruit-based beverages and syrups. Enjoy their signature Fruit Salad with ice cream, or savor a tall glass of Mango Shake or Kesar Badam Sherbet.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP6mfUkg5n3lThj_yulg2Geoxvag9GTJSSNfRw6=w426-h240-k-no",
+        "map": "https://goo.gl/maps/K9X32SVTHwwqRDps8"
+    },
+    {
+        "title": "Bhojohori Manna",
+        "description": "This popular restaurant offers an authentic taste of traditional Bengali cuisine. Sample their Mustard Hilsa Fish, Prawn Malai Curry, Aloo Posto (potatoes cooked in poppy seed paste), and Mishti Pulao (sweet rice).",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipN_qYKouzB57PQ6Nad_ctbgWbyhqgEgYYZ8nlJ1=w408-h367-k-no",
+        "map": "https://goo.gl/maps/yK2s7gXPWKvf5TqT9"
+    },
+    {
+        "title": "Mocambo",
+        "description": "Situated on Park Street, Mocambo is known for its classic Continental and Chinese dishes. Try their sizzling sizzlers, Chicken a la Kiev, and Prawn Cocktail. Don't forget to end your meal with their signature Baked Alaska dessert.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipNRLO42ZsEVVARIgVzfCGOCnKxmm3F5OKAl02Rd=w408-h306-k-no",
+        "map": "https://goo.gl/maps/jZEZz9zMnxWEDGH7A"
+    },
+    {
+        "title": "Ganguram",
+        "description": "Known for its mouthwatering Bengali sweets, Ganguram has several outlets across the city. Try their Rosogolla, Sondesh, Langcha, Chanar Jilipi, and Kancha Golla (a soft and creamy sweet made from condensed milk).",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipPezkBcnEqBFIv4H6KhBXpHlcKPg-wGUxQ18yB_=w408-h306-k-no",
+        "map": "https://goo.gl/maps/sMKp1EU5HLyehxYg6"
+    },
+    {
+        "title": "Vintage Asia - JW Marriott",
+        "description": "Vintage Asia is the best restaurant at JW Marriott Hotel in Kolkata, offering a unique blend of flavors from across the Asian continent. The restaurant specializes in Asian cuisine, including Chinese, Thai, Japanese, and Korean dishes. With a stylish and elegant ambiance, Vintage Asia provides an immersive dining experience. Must-tries include their Peking Duck, Thai Green Curry, Sushi Platters, and Korean BBQ. The restaurant's culinary expertise and attention to detail make it a top choice for Asian food enthusiasts.",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMyVkiKYm6mW-47Yftwskvce95kVG8P4wOi-13E=w458-h240-k-no",
+        "map": "https://goo.gl/maps/G4xd9ZgURkvRQKCd8"
+    }
+]
