@@ -7,7 +7,7 @@ const views = ["places", "shopping", "food"];
 
 const places = () => {
   return (
-    <div>
+    <div className="pb-8">
       <h1 className="text-4xl text-center m-auto text-white font-bold bg-black mt-5 w-1/2 xl:w-1/3">Places to Visit</h1><hr />
       <h2 className="text-xl text-center font-bold border-2 m-auto rounded-md bg-white w-1/3 my-5">Kolkata, West Bengal</h2>
       <div className="w-full flex flex-col items-center justify-center ">
@@ -34,7 +34,7 @@ const places = () => {
           </div>
         ))}
       </div>
-      <div className="flex flex-col items-center justify-center border-2 m-auto rounded-md bg-white w-8/12 xl:w-1/3 ">
+      <div className="flex flex-col items-center justify-center border-2 m-auto rounded-md bg-white w-8/12 xl:w-1/3">
         <span className="font-bold underline">Other mentions:</span>
         <ul className='list-disc'>
           {Places.mentions.map((card, index) => (
@@ -137,7 +137,7 @@ function Guide() {
   return (
     <div className="h-full min-h-screen flex-col justify-center bg-[length:300px_200px] bg-blend-soft-light bg-fixed bg-repeat-round" style={{ backgroundImage: `url('/bg3.jpg')` }}>
       <div className="backdrop-sepia-50 backdrop-brightness-70 min-h-full min-w-full">
-        <div className="flex justify-center pt-8">
+        <div className="flex justify-center py-8">
           <button
             className={`px-4 py-2 rounded mr-4 ${viewSelection === views[0] ? 'bg-white text-black' : 'bg-black text-white'}`}
             onClick={() => handleButtonClick(views[0])}

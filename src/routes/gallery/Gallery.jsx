@@ -1,4 +1,4 @@
-import React from 'react';
+import React, { useEffect } from 'react';
 
 const myimages = () => {
   let imagen = [];
@@ -9,14 +9,23 @@ const myimages = () => {
 };
 
 function Gallery() {
+
+  useEffect(() => {
+    console.log("Pre loading Gallery Images.");
+    myimages().forEach((url) => {
+      const image = new Image();
+      image.src = url;
+    });
+  }, []);
+
   return (
     <div className="bg-black p-8">
       <div className="grid grid-cols-1 sm:grid-cols-2 md:grid-cols-3 lg:grid-cols-4 xl:grid-cols-5 gap-4">
         {myimages().map((image) => (
-            <img
-              src={image}
-              className={`rounded-lg border border-black object-cover w-full h-full xl:hover:scale-125 ease-in-out duration-100`}
-            />
+          <img
+            src={image}
+            className={`rounded-lg border border-black object-cover w-full h-full xl:hover:scale-125 ease-in-out duration-100`}
+          />
         ))}
       </div>
     </div>
