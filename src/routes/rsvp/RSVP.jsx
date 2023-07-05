@@ -35,7 +35,7 @@ function RSVP() {
     setTimeout(() => {
       setIsLoading(false);
 
-      if (rsvpCode === 1234) {
+      if (rsvpCode == 1234) {
         setGuestName(mockGuestInfo.guestName);
         setAttending(mockGuestInfo.attending);
         setNumberOfGuests(mockGuestInfo.numberOfGuests);
