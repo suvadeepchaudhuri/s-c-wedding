@@ -135,7 +135,7 @@ function Guide() {
   };
 
   return (
-    <div className="h-full min-h-screen flex-col justify-center bg-[length:300px_200px] bg-blend-soft-light bg-fixed bg-repeat-round" style={{ backgroundImage: `url('/bg3.jpg')` }}>
+    <div className="h-full min-h-screen flex-col justify-center bg-[length:300px_200px] bg-blend-soft-light bg-fixed bg-repeat-round" style={{ backgroundImage: `url('https://scwedassets.blob.core.windows.net/siteassets/bg3.jpg')` }}>
       <div className="backdrop-sepia-50 backdrop-brightness-70 min-h-full min-w-full">
         <div className="flex justify-center py-8">
           <button

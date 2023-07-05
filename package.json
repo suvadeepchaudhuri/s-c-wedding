@@ -2,7 +2,7 @@
   "name": "s-c-wedding",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://suvadeep.com/s-c-wedding",
+  "homepage": "http://suvadeepchaudhuri.github.io/s-c-wedding",
   "commentsample": "http://suvadeepchaudhuri.github.io/s-c-wedding",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",

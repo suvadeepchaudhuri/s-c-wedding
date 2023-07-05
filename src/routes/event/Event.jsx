@@ -2,7 +2,7 @@ import React from 'react';
 
 function Event() {
   return (
-    <div className="h-full min-h-screen font-berkshireswash flex flex-col justify-center bg-fixed bg-cover" style={{ backgroundImage: `url('/bg7.jpg')` }}>
+    <div className="h-full min-h-screen font-berkshireswash flex flex-col justify-center bg-fixed bg-cover" style={{ backgroundImage: `url('https://scwedassets.blob.core.windows.net/siteassets/bg7.jpg')` }}>
 
       <div className="w-10/12 md:w-7/12 lg:6/12 mx-auto relative py-20">
         <h1 className="text-6xl text-center font-bold text-black">Events</h1>

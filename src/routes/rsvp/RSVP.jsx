@@ -35,7 +35,7 @@ function RSVP() {
     setTimeout(() => {
       setIsLoading(false);
 
-      if (rsvpCode == 1234) {
+      if (rsvpCode === 1234) {
         setGuestName(mockGuestInfo.guestName);
         setAttending(mockGuestInfo.attending);
         setNumberOfGuests(mockGuestInfo.numberOfGuests);
@@ -126,7 +126,7 @@ function RSVP() {
   }
 
   return (
-    <div className="h-full min-h-screen flex-col justify-center text-white bg-blend-soft-light bg-fixed bg-cover" style={{ backgroundImage: `url('/bg5.png')` }}>
+    <div className="h-full min-h-screen flex-col justify-center text-white bg-blend-soft-light bg-fixed bg-cover" style={{ backgroundImage: `url('https://scwedassets.blob.core.windows.net/siteassets/bg5.png')` }}>
 
       <div className="p-4 xl:w-1/3 m-auto">
         <h2 className="text-2xl font-bold mb-4">RSVP</h2>
