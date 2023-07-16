@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/s-c-wedding/static/css/main.0cd86536.css",
-    "main.js": "/s-c-wedding/static/js/main.24805193.js",
-    "static/js/787.99596da6.chunk.js": "/s-c-wedding/static/js/787.99596da6.chunk.js",
-    "static/media/invite.jpg": "/s-c-wedding/static/media/invite.12cbbf19ccab189a2964.jpg",
-    "static/media/greatvibes.ttf": "/s-c-wedding/static/media/greatvibes.6d246c3b51d7eb58b13a.ttf",
-    "static/media/berkshireswash.ttf": "/s-c-wedding/static/media/berkshireswash.deb8b610d048e614dbbf.ttf",
-    "index.html": "/s-c-wedding/index.html",
-    "main.0cd86536.css.map": "/s-c-wedding/static/css/main.0cd86536.css.map",
-    "main.24805193.js.map": "/s-c-wedding/static/js/main.24805193.js.map",
-    "787.99596da6.chunk.js.map": "/s-c-wedding/static/js/787.99596da6.chunk.js.map"
+    "main.css": "/static/css/main.8fd951c8.css",
+    "main.js": "/static/js/main.8e693285.js",
+    "static/js/787.99596da6.chunk.js": "/static/js/787.99596da6.chunk.js",
+    "static/media/invite.jpg": "/static/media/invite.12cbbf19ccab189a2964.jpg",
+    "static/media/greatvibes.ttf": "/static/media/greatvibes.6d246c3b51d7eb58b13a.ttf",
+    "static/media/berkshireswash.ttf": "/static/media/berkshireswash.deb8b610d048e614dbbf.ttf",
+    "index.html": "/index.html",
+    "main.8fd951c8.css.map": "/static/css/main.8fd951c8.css.map",
+    "main.8e693285.js.map": "/static/js/main.8e693285.js.map",
+    "787.99596da6.chunk.js.map": "/static/js/787.99596da6.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.0cd86536.css",
-    "static/js/main.24805193.js"
+    "static/css/main.8fd951c8.css",
+    "static/js/main.8e693285.js"
   ]
 }
