@@ -28,7 +28,7 @@ export default function Home() {
       </div>
       {/* Section 2 */}
       <div className="h-full min-h-screen flex contrast-125 justify-center bg-[length:200px_200px] bg-blend-soft-light bg-repeat-round" style={{ backgroundImage: `url('https://scwedassets.blob.core.windows.net/siteassets/tile1.jpg')` }}>
-        <div className="backdrop-blur-xs backdrop-sepia backdrop-opacity-75 backdrop-brightness-50 min-h-full w-full flex justify-center items-center">
+        <div className="backdrop-blur-xs backdrop-sepia backdrop-opacity-125 backdrop-brightness-50 min-h-full w-full flex justify-center items-center">
           <div className="bg-black/25 border-2 p-5 border-white decoration-1 text-7xl font-greatvibes m-auto drop-shadow font-bold text-white text-center text-wrap hover:scale-125 ease-in-out duration-500 ">Clara<br />and<br />Suvadeep</div>
         </div>
       </div>
@@ -36,26 +36,33 @@ export default function Home() {
         <div className="w-1/2 flex flex-col justify-center content-center text-center">
           <div className="text-4xl mb-4">The Story</div>
           <div className="text-xl">
-            Clara is from Kassel, Germany 🇩🇪 She grew up there and went on to pursue a degree in pharmacy at Frankfurt.
-            In her final year in 2017, she went to University of Florida at Gainesville in Florida USA, for an internship. That is where she met Suvadeep.
+            Clara is from Kassel, Germany 🇩🇪 She is currently a researcher who loves traveling, spending time outdoors, swimming in mountain lakes and riding bicycles.
+            In 2017, she went to the University of Florida(UF) at Gainesville in USA, for an internship. That's where she met Suvadeep.
             <br /><br />
-            Suvadeep is from New Delhi, India 🇮🇳 He was born in Calcutta and grew up in New Delhi. He lived in various cities in India and in the US. During his time at the University of Florida,
-            working on his Computer Science degree, he met Clara at one of the college's weekly events called Gator Nights.
+            Suvadeep was born in Calcutta and grew up in New Delhi, India 🇮🇳 He likes painting, creating and fixing things, playing various sports and also loves traveling. He has lived in various cities in India and in the US. During his time at UF,
+            he met Clara at one of the college's weekly events called Gator Nights.
             <br /><br />
-            Following the initial meeting, they met over the remaining time of her internship in Florida in various events like the college salsa dance society, parties and kept talking once she returned. Shortly after, Suvadeep
+            Following the initial meeting, they met over the remaining time of her internship in Florida at various events like the college salsa dance society, parties and kept talking once she returned. Shortly after, Suvadeep
             visited her in Germany followed by Clara's visits to the US.
             Eventually Clara decided to pursue her PhD in Pancreatic Cancer Research in the US and the rest is history.
           </div>
-          <div className="flex flex-row w-full my-4 items-center justify-center">
+          {/* <div className="flex flex-row w-full my-4 items-center justify-center">
             <img
               src="https://scwedassets.blob.core.windows.net/placesassets/ger.png"
               alt="The German Flag"
-              className="h-28 w-44 border-t border-l border-b border-slate-400"
+              className="h-14 w-22 border-t border-l border-b border-slate-400"
             />
             <img
               src="https://scwedassets.blob.core.windows.net/placesassets/ind.png"
-              alt="The German Flag"
-              className="h-28 w-44 border-t border-r border-b border-slate-400"
+              alt="The Indian Flag"
+              className="h-14 w-22 border-t border-r border-b border-slate-400"
+            />
+          </div> */}
+          <div className='brightness-125'>
+            <img
+              src="https://scwedassets.blob.core.windows.net/siteassets/Layer-1.svg"
+              alt="book end"
+              className="w-full h-full object-contain md:object-scale-down rounded contrast-25"
             />
           </div>
         </div>

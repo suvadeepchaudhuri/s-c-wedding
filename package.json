@@ -1,9 +1,8 @@
 {
   "name": "s-c-wedding",
-  "version": "0.1.0",
+  "version": "0.2.0",
   "private": true,
-  "homepage": "http://suvadeep.com/s-c-wedding",
-  "commentsample": "http://suvadeepchaudhuri.github.io/s-c-wedding",
+  "homepage": "https://claraandsuva.com",
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
     "@testing-library/react": "^13.4.0",

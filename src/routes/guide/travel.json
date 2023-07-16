@@ -1,0 +1,39 @@
+[
+    
+    {
+        "name":"The Sonnet",
+        "distance":"1.2km",
+        "image": "https://photos.hotelbeds.com/giata/original/28/281755/281755a_hb_w_003.jpg",
+        "map":"https://goo.gl/maps/k9m2y3rbRgrz1TXa6"
+    },
+    {
+        "name":"Hyatt Regency Kolkata",
+        "distance":"4.1km",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMERIaKbXECLcCGEl9yvOtSxLi-S2LTDeSFeMip=w426-h240-k-no",
+        "map":"https://goo.gl/maps/JAoq9FewdJx42j7SA"
+    },
+    {
+        "name":"Raajkutir - IHCL SeleQtions",
+        "distance":"4.5km",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipP8Gx1E0B3smJ0R4a8-QT2auKEfAJDt2Cfq7ZuY=w408-h258-k-no",
+        "map":"https://goo.gl/maps/D6JyUvw8Yj6eBsZj7"
+    },
+    {
+        "name":"Fairfield by Marriott Kolkata",
+        "distance":"6.6km",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipO_jnm6iLHApsxxYo8Xtt3WTeLv2vjCBAaFRlh-=w426-h240-k-no",
+        "map":"https://goo.gl/maps/Fkss2iSC2ULgSYz86"
+    },
+    {
+        "name":"ITC Sonar, Kolkata",
+        "distance":"7.1km",
+        "image": "https://lh3.googleusercontent.com/gps-proxy/AF-Tc0TkRvioIY-wjxlymVuLg79UpDUgUSdMdBG5MPNqkR3J6xOm_M2Y-VlINymYzoImsbhju8fhJXMDi0f_61dPgD87Ejx8UM_C3LDFCgvh_SL3kSTpUrKM9z1Uq17QHe2ch8IYK_xW6R_3B0osDmtGfz-OYLFiGqdfOL-j1tWtkqqHsPPuVCahO-iM=w408-h272-k-no",
+        "map":"https://goo.gl/maps/hiULqjuA3UmtzEFc7"
+    },
+    {
+        "name":"JW Marriott Hotel, Kolkata",
+        "distance":"7km",
+        "image": "https://lh5.googleusercontent.com/p/AF1QipMxAO0TS6xVK-Rd6miCVXtbad_WCO0sCH7swPSj=w426-h240-k-no",
+        "map":"https://goo.gl/maps/twtvFhifbjUENYSF9"
+    }  
+]

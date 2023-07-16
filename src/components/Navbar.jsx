@@ -16,9 +16,9 @@ export default function Navbar() {
               <li className="mr-6 cursor-pointer">
                 <Link to="/event" className={`text-white ${isActive('/event') ? 'underline underline-offset-8 font-bold' : ''}`}>Events</Link>
               </li>
-              <li className="mr-6 cursor-pointer">
+              {/* <li className="mr-6 cursor-pointer">
                 <Link to="/rsvp" className={`text-white ${isActive('/rsvp') ? 'underline underline-offset-8 font-bold' : ''}`}>RSVP</Link>
-              </li>
+              </li> */}
               <li className="mr-6 cursor-pointer">
                 <Link to="/gallery" className={`text-white ${isActive('/gallery') ? 'underline underline-offset-8 font-bold' : ''}`}>Gallery</Link>
               </li>

@@ -6,6 +6,11 @@ function Event() {
 
       <div className="w-10/12 md:w-7/12 lg:6/12 mx-auto relative py-20">
         <h1 className="text-6xl text-center font-bold text-black">Events</h1>
+        <div className="mt-2 mx-auto rounded-md border-2 border-black bg-yellow-500 background-white w-1/2">
+          <h2 className="text-center font-bold text-black">
+            Venue: Udayachal Tourist Lodge, Salt Lake City, Kolkata
+          </h2>
+        </div>
         <div className="border-l-2 mt-10 flex-col justify-center items-center">
           <div className="flex-auto w-1/2 text-center border-2 mx-auto my-10 rounded-md bg-white text-2xl p-2">Day-1 (27th December 2023)</div>
           {/* Card 1*/}
@@ -23,7 +28,7 @@ function Event() {
 
           {/* Card 2*/}
           <div className="transform transition cursor-pointer hover:-translate-y-2 ml-10 relative flex items-center px-6 py-4 border-2 bg-orange-900 text-white rounded mb-10 flex-col md:flex-row space-y-4 md:space-y-0">
-            
+
             <div className="w-5 h-5 bg-orange-700 absolute -left-10 transform -translate-x-2/4 rounded-full z-10 mt-2 md:mt-0"></div>
             <div className="w-10 h-1 bg-orange-700 absolute -left-10 z-0"></div>
 
@@ -37,7 +42,7 @@ function Event() {
 
           {/* Card3*/}
           <div className="transform transition cursor-pointer hover:-translate-y-2 ml-10 relative flex items-center px-6 py-4 border-2 bg-green-900 text-white rounded mb-10 flex-col md:flex-row space-y-4 md:space-y-0">
-            
+
             <div className="w-5 h-5 bg-green-700 absolute -left-10 transform -translate-x-2/4 rounded-full z-10 mt-2 md:mt-0"></div>
             <div className="w-10 h-1 bg-green-700 absolute -left-10 z-0"></div>
 
@@ -52,7 +57,7 @@ function Event() {
           <div className="flex-auto w-1/2 text-center border-2 mx-auto my-10 rounded-md bg-white text-2xl p-2">Day-2 (28th December 2023)</div>
           {/* Card4*/}
           <div className="transform transition cursor-pointer hover:-translate-y-2 ml-10 relative flex items-center px-6 py-4 border-2 bg-yellow-600 text-white rounded mb-10 flex-col md:flex-row space-y-4 md:space-y-0">
-            
+
             <div className="w-5 h-5 bg-yellow-500 absolute -left-10 transform -translate-x-2/4 rounded-full z-10 mt-2 md:mt-0"></div>
             <div className="w-10 h-1 bg-yellow-500 absolute -left-10 z-0"></div>
 
@@ -66,7 +71,7 @@ function Event() {
 
           {/* Card5 */}
           <div className="transform transition cursor-pointer hover:-translate-y-2 ml-10 relative flex items-center px-6 py-4 border-2 bg-rose-900 text-white rounded mb-10 flex-col md:flex-row">
-            
+
             <div className="w-5 h-5 bg-rose-700 absolute -left-10 transform -translate-x-2/4 rounded-full z-10 -mt-2 md:mt-0"></div>
             <div className="w-10 h-1 bg-rose-700 absolute -left-10 z-0"></div>
             {/* Content*/}
@@ -94,7 +99,7 @@ function Event() {
                     Mala Badal - Exchanging wedding garlands.
                   </li>
                   <li>
-                    Yagya - Prayers to to Gods in front of a fire praying for health and happiness. 
+                    Yagya - Prayers to to Gods in front of a fire praying for health and happiness.
                   </li>
                   <li>
                     Saptapadi - Seven steps near the yagya fire while being showered with flower petals. The core of the ritual that facilitates the wedding.
@@ -110,7 +115,7 @@ function Event() {
 
           {/* Card6*/}
           <div className="transform transition cursor-pointer hover:-translate-y-2 ml-10 relative flex items-center px-6 py-4 border-2 bg-violet-900 text-white rounded mb-10 flex-col md:flex-row space-y-4 md:space-y-0">
-            
+
             <div className="w-5 h-5 bg-violet-700 absolute -left-10 transform -translate-x-2/4 rounded-full z-10 mt-2 md:mt-0"></div>
             <div className="w-10 h-1 bg-violet-700 absolute -left-10 z-0"></div>
 

@@ -8,6 +8,10 @@ module.exports = {
       scale: {
         '300': '3.00',
       },
+      contrast: {
+        90: '.90',
+        25: '.01',
+      },
       gridTemplateRows: {
         // Simple 8 row grid
         '8': 'repeat(8, minmax(0, 1fr))',
@@ -27,7 +31,7 @@ module.exports = {
       },
       blur: {
         xxs: '1px',
-        xs: '2px',
+        xs: '2px'
       },
       keyframes: {
         wiggle: {
