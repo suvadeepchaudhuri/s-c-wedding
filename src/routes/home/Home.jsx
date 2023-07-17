@@ -23,17 +23,17 @@ export default function Home() {
               />
             </div>
           </div>
-          <div className="text-4xl mb-20 text-center font-bold text-black font-berkshireswash">Save The Date<br /><span className="text-5xl">28th December 2023</span></div>
+          <div className="text-4xl mb-20 text-center font-bold text-black font-berkshireswash">Save The Date<br /><span className="text-5xl px-2">28th December 2023</span></div>
         </div>
       </div>
       {/* Section 2 */}
       <div className="h-full min-h-screen flex contrast-125 justify-center bg-[length:200px_200px] bg-blend-soft-light bg-repeat-round" style={{ backgroundImage: `url('https://scwedassets.blob.core.windows.net/siteassets/tile1.jpg')` }}>
         <div className="backdrop-blur-xs backdrop-sepia backdrop-opacity-125 backdrop-brightness-50 min-h-full w-full flex justify-center items-center">
-          <div className="bg-black/25 border-2 p-5 border-white decoration-1 text-7xl font-greatvibes m-auto drop-shadow font-bold text-white text-center text-wrap hover:scale-125 ease-in-out duration-500 ">Clara<br />and<br />Suvadeep</div>
+          <div className="bg-black/25 border-2 p-5 border-white decoration-1 text-7xl font-greatvibes m-auto drop-shadow font-bold text-white text-center text-wrap hover:scale-125 ease-in-out duration-500 ">Suvadeep<br />and<br />Clara</div>
         </div>
       </div>
       <div className="h-full min-h-screen p-10 flex flex-col justify-center content-center items-center text-white font-berkshireswash">
-        <div className="w-1/2 flex flex-col justify-center content-center text-center">
+        <div className="w-1/2 max-sm:w-3/4 flex flex-col justify-center content-center text-center">
           <div className="text-4xl mb-4">The Story</div>
           <div className="text-xl">
             Clara is from Kassel, Germany 🇩🇪 She is currently a researcher who loves traveling, spending time outdoors, swimming in mountain lakes and riding bicycles.
@@ -44,7 +44,7 @@ export default function Home() {
             <br /><br />
             Following the initial meeting, they met over the remaining time of her internship in Florida at various events like the college salsa dance society, parties and kept talking once she returned. Shortly after, Suvadeep
             visited her in Germany followed by Clara's visits to the US.
-            Eventually Clara decided to pursue her PhD in Pancreatic Cancer Research in the US and the rest is history.
+            Eventually Clara decided to pursue her PhD in the US and the rest is history.
           </div>
           {/* <div className="flex flex-row w-full my-4 items-center justify-center">
             <img
@@ -58,7 +58,7 @@ export default function Home() {
               className="h-14 w-22 border-t border-r border-b border-slate-400"
             />
           </div> */}
-          <div className='brightness-125'>
+          <div className='brightness-125 max-sm:pt-4'>
             <img
               src="https://scwedassets.blob.core.windows.net/siteassets/Layer-1.svg"
               alt="book end"

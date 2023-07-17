@@ -145,7 +145,7 @@ const travel = () => {
           </div>
         ))}
       </div>
-      <div className="flex flex-col items-center justify-center border-2 m-auto rounded-md bg-white w-8/12 xl:w-1/3">
+      <div className="flex flex-col items-center justify-center border-2 pl-6 p-2 m-auto rounded-md bg-white w-8/12 xl:w-2/3">
         <span className="font-bold">Visa Requirements and Travel Safety</span>
         
         <ul className='list-disc underline'>
@@ -189,25 +189,25 @@ function Guide() {
       <div className="backdrop-sepia-50 backdrop-brightness-70 min-h-full min-w-full  pb-4">
         <div className="flex justify-center py-8">
           <button
-            className={`px-4 py-2 rounded mr-4 ${viewSelection === views[0] ? 'bg-white text-black' : 'bg-black text-white'}`}
+            className={`px-4 py-2 max-sm:p-2 rounded mr-4 ${viewSelection === views[0] ? 'bg-white text-black' : 'bg-black text-white'}`}
             onClick={() => handleButtonClick(views[0])}
           >
             Places
           </button>
           <button
-            className={`px-4 py-2 rounded mr-4 ${viewSelection === views[1] ? 'bg-white text-black' : 'bg-black text-white'}`}
+            className={`px-4 py-2 max-sm:p-2 rounded mr-4 ${viewSelection === views[1] ? 'bg-white text-black' : 'bg-black text-white'}`}
             onClick={() => handleButtonClick(views[1])}
           >
             Shopping
           </button>
           <button
-            className={`px-4 py-2 rounded mr-4 ${viewSelection === views[2] ? 'bg-white text-black' : 'bg-black text-white'}`}
+            className={`px-4 py-2 max-sm:p-2 rounded mr-4 ${viewSelection === views[2] ? 'bg-white text-black' : 'bg-black text-white'}`}
             onClick={() => handleButtonClick(views[2])}
           >
             Food
           </button>
           <button
-            className={`px-4 py-2 rounded ${viewSelection === views[3] ? 'bg-white text-black' : 'bg-black text-white'}`}
+            className={`px-4 py-2 max-sm:p-2 rounded ${viewSelection === views[3] ? 'bg-white text-black' : 'bg-black text-white'}`}
             onClick={() => handleButtonClick(views[3])}
           >
             Lodging and Travel
