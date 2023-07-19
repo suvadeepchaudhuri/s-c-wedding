@@ -8,7 +8,7 @@ function Event() {
         <h1 className="text-6xl text-center font-bold text-black">Events</h1>
         <div className="mt-2 mx-auto rounded-md border-2 border-black bg-yellow-500 background-white w-1/2">
           <h2 className="text-center font-bold text-black">
-            Venue: Udayachal Tourist Lodge, Salt Lake City, Kolkata
+            Venue: Udayachal Tourist Lodge, Salt Lake, Kolkata
           </h2>
         </div>
         <div className="border-l-2 mt-10 flex-col justify-center items-center">
@@ -21,7 +21,7 @@ function Event() {
             {/* Content*/}
             <div className="flex-auto">
               <h1 className="text-lg">(12-3pm)</h1>
-              <h1 className="text-xl underline underline-offset-2 decoration-1 font-bold">Eiburo Bhaat & Bou Bhaat</h1>
+              <h1 className="text-xl underline underline-offset-2 decoration-1 font-bold">Eiburo Bhaat</h1>
               <h3>Groom and Bride are presented with a 10 course meal on 'silver'ware.</h3>
             </div>
           </div>
@@ -50,7 +50,7 @@ function Event() {
             <div className="flex-auto">
               <h1 className="text-lg">(7-9pm)</h1>
               <h1 className="text-xl underline underline-offset-2 decoration-1 font-bold">Sangeet</h1>
-              <h3>Music and Dance. Just an event of fun and frolick and showing off your best dance performances on stage.</h3>
+              <h3>Music and Dance. Just an event of fun and frolick and showing off your best dance performances on stage and taking lots of pictures!</h3>
             </div>
           </div>
 
@@ -90,7 +90,7 @@ function Event() {
                     Bor Boron - Special welcome of the groom. Gifts are given to the bride. Jewelry in specific.
                   </li>
                   <li>
-                    Saanth Paak - The Bride is carried on a plint to the wedding stage.
+                    Saanth Paak - The Bride is carried in, on a decorated platform to the wedding stage.
                   </li>
                   <li>
                     Subho Drishti - The first eye contact between the bride and the groom parting beetel leaves.
@@ -99,7 +99,7 @@ function Event() {
                     Mala Badal - Exchanging wedding garlands.
                   </li>
                   <li>
-                    Yagya - Prayers to to Gods in front of a fire, praying for health and happiness.
+                    Yagya - Prayers to the Gods in front of a fire, praying for health and happiness.
                   </li>
                   <li>
                     Saptapadi - Seven steps near the yagya fire while being showered with flower petals. The core of the ritual that facilitates the wedding.
