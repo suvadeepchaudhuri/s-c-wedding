@@ -1,14 +1,20 @@
-import React, { useState } from 'react';
+import React, { useEffect, useState } from 'react';
+import { useNavigate } from "react-router-dom";
 import { Dna } from 'react-loader-spinner'
 
 function RSVP() {
+  const navigate = useNavigate();
   const [rsvpCode, setRSVPCode] = useState('');
-  const [guestName, setGuestName] = useState('');
+  const [adminClickCount, setAdminClickCount] = useState(0);
   const [attending, setAttending] = useState('Yes');
   const [numberOfGuests, setNumberOfGuests] = useState(1);
   const [successMessage, setSuccessMessage] = useState('');
   const [errorMessage, setErrorMessage] = useState('');
   const [isLoading, setIsLoading] = useState(false);
+
+  useEffect(() => {
+    setAdminClickCount(0);
+  }, []);
 
   const handleRSVPCodeChange = (event) => {
     setRSVPCode(event.target.value);
@@ -54,7 +60,6 @@ function RSVP() {
     }
   }
 
-
   const handleRSVPSubmit = async (event) => {
     event.preventDefault();
 
@@ -62,7 +67,6 @@ function RSVP() {
     await makeUpdateRequest()
       .then((response) => {
         var guest = `${response.firstName} ${response.lastName}`
-        setGuestName(guest);
         setSuccessMessage('Thank You, ' + guest + '! Your RSVP has been recorded.');
         setErrorMessage('');
       })
@@ -113,23 +117,27 @@ function RSVP() {
         )}
       </button>
     </form>);
+  }
 
+  const handleEnterAdmin = () => {
+    if (adminClickCount >= 10) {
+      navigate("/rsvp/admin");
+    }
+    setAdminClickCount(adminClickCount + 1);
   }
 
   return (
     <div className="h-full min-h-screen flex-col justify-center text-white bg-blend-soft-light bg-fixed bg-cover" style={{ backgroundImage: `url('https://scwedassets.blob.core.windows.net/siteassets/bg5.png')` }}>
 
       <div className="p-4 xl:w-1/3 m-auto">
-        <h2 className="text-2xl font-bold mb-4">RSVP</h2>
-
+        <h2 className="text-2xl font-bold mb-4"><button className="cursor-default" onClick={handleEnterAdmin}>RSVP</button></h2>
         {getForm()}
-
         {successMessage && (
           <div className="flex flex-col justify-center items-center">
             <div className="text-xl font-bold my-4 p-2 bg-slate-800 border rounded border-white">{successMessage}</div>
             <img
               src='https://scwedassets.blob.core.windows.net/siteassets/cs.png'
-              alt="Picture of a couple"
+              alt="Illustration of a couple"
               className="w-60 h-60 object-contain md:object-scale-down rounded"
             />
           </div>

@@ -1,4 +1,4 @@
-import React, { useEffect, useState } from 'react';
+import React, { useState } from 'react';
 import { Dna } from 'react-loader-spinner';
 import { Store } from 'react-notifications-component';
 import 'react-notifications-component/dist/theme.css'
@@ -72,7 +72,7 @@ function Admin() {
 
     const handleViewList = async () => {
         try {
-            if (items.length == 0) {
+            if (items.length === 0) {
                 const data = await handleFetchTableData();
                 setItems(data);
             }
@@ -172,12 +172,6 @@ function Admin() {
             console.error('Error submitting item:', error);
         }
     };
-
-    // useEffect(() => {
-    //     if (view === 'list') {
-    //         handleViewList();
-    //     }
-    // }, [view]);
 
     const getHeader = () => {
         return (
