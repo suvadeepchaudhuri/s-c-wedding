@@ -1,4 +1,5 @@
 import React from 'react';
+import Countdown from '../../components/Countdown';
 
 export default function Home() {
   return (
@@ -23,7 +24,8 @@ export default function Home() {
               />
             </div>
           </div>
-          <div className="text-4xl mb-20 text-center font-bold text-black font-berkshireswash">Save The Date<br /><span className="text-5xl px-2">28th December 2023</span></div>
+          <div className="text-4xl mb-4 text-center font-bold text-black font-berkshireswash"><span className="text-5xl">28th December 2023</span></div>
+          <div className="min-h-16 text-4xl mb-20 text-center font-bold text-black font-berkshireswash"><Countdown/></div>
         </div>
       </div>
       {/* Section 2 */}
@@ -36,10 +38,10 @@ export default function Home() {
         <div className="w-1/2 max-sm:w-3/4 flex flex-col justify-center content-center text-center">
           <div className="text-4xl mb-4">The Story</div>
           <div className="text-xl">
-            Clara is from Kassel, Germany 🇩🇪 She is currently a researcher who loves traveling, spending time outdoors, swimming in mountain lakes and riding bicycles.
+            Clara is from Kassel, Germany <img src='https://scwedassets.blob.core.windows.net/siteassets/germany.png' className="h-4 border-y border-slate-800 inline"/> She is currently a researcher who loves traveling, spending time outdoors, swimming in mountain lakes and riding bicycles.
             In 2017, she went to the University of Florida(UF) at Gainesville in USA, for an internship. That's where she met Suvadeep.
             <br /><br />
-            Suvadeep was born in Calcutta and grew up in New Delhi, India 🇮🇳 He likes painting, creating and fixing things, playing various sports and also loves traveling. He has lived in various cities in India and in the US. During his time at UF,
+            Suvadeep was born in Calcutta and grew up in New Delhi, India <img src='https://scwedassets.blob.core.windows.net/siteassets/india.png' className="h-4 inline"/> He likes painting, creating and fixing things, playing various sports and also loves traveling. He has lived in various cities in India and in the US. During his time at UF,
             he met Clara at one of the college's weekly events called Gator Nights.
             <br /><br />
             Following the initial meeting, they met over the remaining time of her internship in Florida at various events like the college salsa dance society, parties and kept talking once she returned. Shortly after, Suvadeep
