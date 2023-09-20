@@ -24,7 +24,7 @@ export default function Home() {
               />
             </div>
           </div>
-          <div className="text-4xl mb-4 text-center font-bold text-black font-berkshireswash"><span className="text-5xl">28th December 2023</span></div>
+          <div className="text-4xl mb-4 text-center font-bold text-black font-berkshireswash"><span className="text-5xl max-sm:px-4">28th December 2023</span></div>
           <div className="min-h-16 text-4xl mb-20 text-center font-bold text-black font-berkshireswash"><Countdown/></div>
         </div>
       </div>
