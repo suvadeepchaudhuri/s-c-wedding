@@ -25,6 +25,6 @@ export default function Countdown() {
     }, [])
 
     return (<div>
-        <span className='w-15 inline-block'>{timeRemaining.day}</span> <span className='text-2xl'>{timeRemaining.day == 1 ? 'day' : 'days'}</span>,  <span className='w-10 inline-block'>{timeRemaining.hour}</span> <span className='text-2xl'>{timeRemaining.hour == 1 ? 'hour' : 'hours'}</span>,  <span className='w-10 inline-block'>{timeRemaining.min}</span> <span className='text-2xl'>min and</span> <span className='w-10 inline-block'>{timeRemaining.sec}</span> <span className='text-xl'>sec to go!</span>
+        {new Date() > wed ? "" : <><span className='w-15 inline-block'>{timeRemaining.day}</span> <span className='text-2xl'>{timeRemaining.day == 1 ? 'day' : 'days'}</span>,  <span className='w-10 inline-block'>{timeRemaining.hour}</span> <span className='text-2xl'>{timeRemaining.hour == 1 ? 'hour' : 'hours'}</span>,  <span className='w-10 inline-block'>{timeRemaining.min}</span> <span className='text-2xl'>min and</span> <span className='w-10 inline-block'>{timeRemaining.sec}</span> <span className='text-xl'>sec to go!</span></>} 
     </div>);
 }
